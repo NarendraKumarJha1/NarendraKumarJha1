@@ -4,7 +4,7 @@
 <img align="right" alt = "coding" width ="400" src="https://www.icegif.com/wp-content/uploads/among-us-icegif-53.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrakumarjha1&label=Profile%20views&color=0e75b6&style=flat" alt="narendrakumarjha1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vickyjha8447144" target="blank"><img src="https://img.shields.io/twitter/follow/vickyjha8447144?logo=twitter&style=for-the-badge" alt="vickyjha8447144" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cele5tial_dev" target="blank"><img src="https://img.shields.io/twitter/follow/vickyjha8447144?logo=twitter&style=for-the-badge" alt="cele5tial_dev" /></a> </p>
 
 - 🌱 I’m currently learning **Unreal Engine, ReactJs, and Blender, etc.**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/narendrakumarjha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narendrakumarjha1" height="30" width="40" /></a>
-<a href="https://twitter.com/vickyjha8447144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickyjha8447144" height="30" width="40" /></a>
+<a href="https://twitter.com/cele5tial_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cele5tial_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/narendrakumarjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendrakumarjha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14306681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14306681" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jhavicky25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jhavicky25" height="30" width="40" /></a>
