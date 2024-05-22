@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/cele5tial_dev" target="blank"><img src="https://img.shields.io/twitter/follow/vickyjha8447144?logo=twitter&style=for-the-badge" alt="cele5tial_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal Engine, ReactJs, and Blender, etc.**
+- 🌱 I’m currently learning **Unreal Engine.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NarendraKumarJha1](https://github.com/NarendraKumarJha1)
 
